@@ -46,7 +46,7 @@ EYEPATH comprises five key modules:
 
 ## 🏗️ System Architecture
 
-
+![System Architecture](img/image1.png)
 
 EYEPATH operates in a **five-layered architecture**:
 
@@ -353,6 +353,9 @@ python run_demo.py src/videos/example.mp4 -o result.mp4
 - **Latency**: End-to-end latency of \~21ms (YOLO11n: 15ms, Conv-LSTM: 6ms).
 - **Accuracy**: F1-Score of 0.83 with IoU change features.
 - **Validation**: Mann-Whitney U-test confirms IoU correlation with collisions (p < 0.001).
+
+![Latency Histogram](img/image12.png)
+![Confusion Matrix](img/image5.png)
 
 &#x20;
 
