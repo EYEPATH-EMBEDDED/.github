@@ -316,8 +316,8 @@ python run_demo.py src/videos/example.mp4 -o result.mp4
 - **Accuracy**: F1-Score of 0.83 with IoU change features.
 - **Validation**: Mann-Whitney U-test confirms IoU correlation with collisions (p < 0.001).
 
-![Latency Histogram](img/latency_histogram.png)
-![Confusion Matrix](img/confusion_matrix_bbox.png)
+![Latency Histogram](img/image12.png)
+![Confusion Matrix](img/image5.png)
 
 ---
 
