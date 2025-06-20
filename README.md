@@ -34,7 +34,7 @@ EYEPATH comprises five key modules:
 
 ## 🏗️ System Architecture
 
-![System Architecture](img/architecture.png)
+![System Architecture](img/image1.png)
 
 EYEPATH operates in a **five-layered architecture**:
 
